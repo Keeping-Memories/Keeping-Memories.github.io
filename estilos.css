@@ -421,6 +421,7 @@ header .menu-header {
     row-gap: 40px;
     justify-items: center;
     align-items: center;
+    margin: 0px 50px;
 }
 
 .nosotros-img {
@@ -660,7 +661,7 @@ footer .footer-contenedor{
 
 .icon-footer a {
     color: black;
-    margin: 0px 40px;
+    margin: 0px 20px;
     text-decoration: none;
 }
 
