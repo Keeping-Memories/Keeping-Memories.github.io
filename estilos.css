@@ -94,18 +94,31 @@ header .menu-header {
 
 
 @media (min-width:480px) {
+    
+    header {
+        margin: auto 20px;
+    }
+
+    header h1 {
+        font-size: 80px;
+    }
+
+    header label {
+        font-size: 140px;
+        width: auto;
+        position: absolute;
+        margin: auto;
+    }
+
+    
 
     #banner h2 {
-        font-size: 60px;
+        font-size: 70px;
+        display: inline-flex;
+        flex-wrap: wrap;
+        margin: auto;
     }
 
-    #banner a {
-        font-size: 20px;
-        display: block;
-        justify-content: center;
-        justify-items: center;
-        align-items: center;
-    }
 
 
 /*
